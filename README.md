@@ -266,6 +266,12 @@ screenshots/
 ![Login page](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
 ```
+<p align="center">
+  <img src="screenshots/login.png" width="500">
+  <img src="screenshots/register.png"  width="500">
+  <img src="screenshots/dashboard.png" width="500">
+</p>
+
 
 ## Testing
 
